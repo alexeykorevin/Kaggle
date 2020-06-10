@@ -11,3 +11,4 @@
 Соревнования:
 * [Titanic: Machine Learning from Disaster](Titanic)
 * [Прогноз популярности статьи на Хабре](Habr)
+* [House Prices: Advanced Regression Techniques](HousePrices)
