@@ -12,3 +12,7 @@
 * [Titanic: Machine Learning from Disaster](Titanic)
 * [Прогноз популярности статьи на Хабре](Habr)
 * [House Prices: Advanced Regression Techniques](HousePrices)
+* [CreditCardFraudDetection: Anonymized credit card transactions labeled as fraudulent or genuine](CreditCardFraudDetection)
+
+Анализ и визуализация данных:
+* [Netflix Movies and TV Shows: Movies and TV Shows listings on Netflix](Netflix)
