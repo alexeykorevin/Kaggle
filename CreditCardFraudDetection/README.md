@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud">
-    <img height="150" src="https://storage.googleapis.com/kaggle-datasets-images/310/684/3503c6c827ca269cc00ffa66f2a9c207/dataset-card.jpg">
+    <img height="300" src="https://storage.googleapis.com/kaggle-datasets-images/310/684/3503c6c827ca269cc00ffa66f2a9c207/dataset-card.jpg">
   </a>
 </p>
 <br>
